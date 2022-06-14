@@ -7,9 +7,9 @@ int main()
 {
     int a = 0;
     int b = 0;
-    printf("enter value of a");
+    printf("enter value of a ");
     scanf("%d", &a);
-    printf("enter value of b");
+    printf("enter value of b ");
     scanf("%d", &b);
     if (checkRightDigit(a, b) == 1)
     {
